@@ -1,7 +1,7 @@
 {
   "name": "css-module-flow-gen-loader",
   "version": "0.1.4",
-  "description": "",
+  "description": "Generates type definitions for imported css-module style files.",
   "main": "build/index.js",
   "scripts": {
     "test": "jest",
