@@ -12,7 +12,7 @@ npm install css-module-flow-gen-loader
 ```
 
 ## Usage
-This can be used with any CSS module format such as .styl, .scss, .sass, or .pcss. All that's required is that the loader is css-module-flow-gen-loader after the css-loader with the module flag set.
+This can be used with any CSS module format such as .styl, .scss, .sass, or .pcss. All that's required is that css-module-flow-gen-loader is placed after the css-loader.
 
 ### Add Webpack conf rules
 ```javascript
