@@ -39,7 +39,7 @@ This can be used with any CSS module format such as .styl, .scss, .sass, or .pcs
 ]
 ```
 
-### Add.flowconfig
+### Add .flowconfig
 Define allowed file import for flow.
 ```
 [options]

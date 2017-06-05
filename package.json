@@ -20,6 +20,10 @@
     "np": "^2.15.0",
     "watch": "^1.0.2"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/JoelRoxell/css-module-flow-gen-loader.git"
+  },
   "babel": {
     "presets": [
       "latest"
