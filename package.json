@@ -1,6 +1,6 @@
 {
   "name": "css-module-flow-gen-loader",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Generates type definitions for imported css-module style files.",
   "main": "build/index.js",
   "scripts": {
@@ -21,8 +21,8 @@
     "watch": "^1.0.2"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/JoelRoxell/css-module-flow-gen-loader.git"
+    "type": "git",
+    "url": "https://github.com/JoelRoxell/css-module-flow-gen-loader.git"
   },
   "babel": {
     "presets": [
