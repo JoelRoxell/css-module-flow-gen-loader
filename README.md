@@ -4,7 +4,7 @@ Webpack loader used to auto generate css-module token exports, in order to allow
 ## TL;DR
 Generates type definitions for imported style files, which allows flow to type-check "against" the imported style object.
 
-![usage](in-action.gif)
+![usage](https://raw.githubusercontent.com/JoelRoxell/css-module-flow-gen-loader/master/in-action.gif)
 
 ## Install
 ```
